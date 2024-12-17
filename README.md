@@ -5,7 +5,7 @@ In this project, we are going to build up a convolutional neural network (CNN) t
 Note: To build your CNN model, please use TensorFlow (integrated with Keras). Keras is built inside the TensorFlow package. Initially developed as an independent high-level neural networks API, Keras was later integrated into TensorFlow as its official high-level API for building and training deep learning models. This integration allows Keras to leverage TensorFlow's powerful backend, which includes efficient computation and support for distributed training, while providing an easy-to-use interface for developers. Keras simplifies the process of designing complex neural networks with just a few lines of code, making it accessible to beginners and experienced practitioners alike. While Keras can also be used with other backends, its integration with TensorFlow has made it the default API within the TensorFlow ecosystem.
 
 # Medium Article URL:
-
+https://medium.com/@mhasan8/convolutional-neural-network-cnn-98b9b5e95b60
 
 # Drive link URL:
 https://drive.google.com/drive/folders/14EncpbAZ4bhLkqkiSSo6AAm6izC2gcvg?usp=drive_link
